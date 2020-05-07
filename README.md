@@ -15,6 +15,6 @@ A csapatokban játékosok vannak, tárolunk róluk: név, születési dátum, te
     		* Új játékos létrehozása
     		* Játékosok különféle adataihoz való hozzáférés
     		* Játékosok igazolása (Minden esetet kezelve: Ha már a csapat tagja, arról értesít, ha még nincs csapatban akkor leigazol, ha már van csapatban, akkor átigazol és a csapatok átlagértékelései újra számítódnak.)
-		Egy démon végezze azt a munkát, hogy ha egy csapatnak nem marad több játékosa igazolás után, akkor a csapat törlődik az adatbázisból.
-		Ezt megírtam az igazolás metódusba IS egyébként, hogy könnyebben nyomon követhető legyen a program jó működése.
+		* Egy démon végzi azt a munkát, hogy ha egy csapatnak nem marad több játékosa igazolás után, akkor a csapat törlődik az adatbázisból. 
+		(Ezt megírtam az igazolás metódusba IS egyébként, hogy könnyebben nyomon követhető legyen a program jó működése.)
     		* Legidősebb és legfiatalabb játékos minden adatával együtt(!) való lekérése zset segítségével.
