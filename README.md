@@ -1,6 +1,6 @@
 # [HUN]Focicsapatok
 
-Ez egy redis NoSQL adatbázis, amit dolgozatként készítettem el az egyetemre.
+Ez egy `redis` NoSQL adatbázis, amit dolgozatként készítettem el az egyetemre.
 
 ## Ismertető
 Csapatok vannak, tárolunk róluk: név, átlag értékelés (amit a játékosok értékeléséből számítunk ki).
